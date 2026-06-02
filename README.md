@@ -25,6 +25,28 @@ My work usually involves both frontend and backend development, including user i
 
 I focus on clean architecture, reusable components, organized code, scalable structures and practical solutions that can evolve over time.
 
+## 🎮 Hobbies & Non-Commercial Projects
+
+Besides professional and business-focused projects, I also enjoy building personal and non-commercial projects for learning, experimentation and recreational use.
+
+These projects help me explore new technologies, improve my problem-solving skills and practice different areas of software development outside traditional web applications.
+
+Some of the areas I enjoy studying and building for include:
+
+* Game development
+* FiveM scripts and roleplay systems
+* RAGE:MP-related tools
+* Real-time translation tools
+* OCR-based utilities
+* AI-assisted workflows
+* Desktop automation
+* Roleplay community tools
+* Experimental SaaS and dashboard structures
+
+One of my personal interests is creating tools for text-based roleplay environments, including systems that can help with translation, context handling, automation and user experience improvements.
+
+I use these projects as a way to learn by building, test new ideas and improve my skills in software architecture, automation, AI integrations, user interfaces and real-time tools.
+
 ## 🛠️ Tech Stack
 
 ### Frontend
