@@ -87,5 +87,6 @@ I'm currently focused on building scalable web systems, SaaS products, automatio
 
 * GitHub: [@Rafanax](https://github.com/Rafanax)
 * Location: Rio de Janeiro, Brazil
+* Email: rafaeljuvenal.dev@gmail.com
 * Available for freelance projects
 * Portfolio: coming soon
