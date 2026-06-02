@@ -41,7 +41,7 @@ OpenAI API · WhatsApp/Bots · Payment Gateways · Checkout APIs · Third-party 
 
 ### Tools
 
-Git · GitHub · VS Code · Cursor · Postman/Insomnia · Figma · Canva · VPS Deployments
+Git · GitHub · VS Code · Cursor · Postman/Insomnia · Canva · VPS Deployments
 
 ## 📌 Project Experience
 
